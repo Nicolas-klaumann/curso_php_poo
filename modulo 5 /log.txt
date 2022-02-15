@@ -1,0 +1,1 @@
+2022-02-09 13:35:25:INSERT INTO produto (id, descricao, estoque, preco_custo,       preco_venda, codigo_barras, data_cadastro, origem) VALUES ('4', 'Chocolate Branco',  '70',  '4',  '7',  '213456',  '2022-02-09',  'N')
